@@ -109,7 +109,6 @@ end
 
 yalt.history_current = 0
 yalt.history = {}
-yalt.history_storage = nil
 function yalt:keypressed(key,unicode,keyrepeat)
   if not keyrepeat then
     yalt.lastpress = {time = love.timer.getMicroTime( ), key = key, unicode = unicode}
