@@ -9,6 +9,7 @@ To integrate YALT into your project, see minimal.lua and the accompanied comment
 To configure YALT with custom settings, edit yalt/config.lua
 
 FEATURES:
+
 * Easy to integrate  
 * Highly configurable  
 * Restores graphic's color/alpha and fonts to original state when used  
