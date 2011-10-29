@@ -26,12 +26,4 @@ FEATURES:
 * Provides simple callback system for processing data entered into yalt
 * Provices simple way to push data back into yalt for response
 * CTRL-C cancels current line, and does not execute it.
-* CLRL-L Clears screen
-
-ENHANCEMENTS:
-*live config system?
-*lua console?
-*boolean function so the user knows whether or not the terminal is active.
-
-KNOWN BUGS:
-*system clears lines when single line is longer than entire system
+* CLRL-L Clears screen  
