@@ -4,6 +4,8 @@ YALT is a library that can be used in conjunction with any software in love.
 
 To integrate YALT into your project, see minimal.lua and the accompanied comments. Then copy the entire yalt subfolder into your project (config.lua  MonospaceTypewriter.ttf  yalt.lua  yalt.png).
 
+<img src="https://github.com/josefnpat/yalt/blob/master/screenshot.png" />
+
 To configure YALT with custom settings, edit yalt/config.lua
 
 FEATURES:
