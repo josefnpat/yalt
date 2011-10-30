@@ -28,3 +28,8 @@ FEATURES:
 * Provices simple way to push data back into yalt for response  
 * CTRL-C cancels current line, and does not execute it  
 * CLRL-L Clears screen  
+
+CREDIT:
+
+* Uses the free [Monospace Typewriter](http://www.dafont.com/monospace-typewrite.font) font.
+* Uses color theme and icons from the [Tango Desktop Project](http://tango-project.org)
