@@ -6,7 +6,7 @@ To integrate YALT into your project, see minimal.lua and the accompanied comment
 
 <img width=50% src="https://github.com/josefnpat/yalt/raw/master/screenshot.png" />
 
-To configure YALT with custom settings, edit yalt/config.lua
+To configure YALT with custom settings, edit yalt/config.lua.
 
 FEATURES:
 
@@ -31,5 +31,5 @@ FEATURES:
 
 CREDIT:
 
-* Uses the free [Monospace Typewriter](http://www.dafont.com/monospace-typewrite.font) font.
+* Uses the free [Monospace Typewriter](http://www.dafont.com/monospace-typewrite.font) font
 * Uses color theme and icons from the [Tango Desktop Project](http://tango-project.org)
